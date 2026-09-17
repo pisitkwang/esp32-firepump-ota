@@ -1,7 +1,7 @@
 {
   "bangsueoffice": {
-    "version": "1.6",
-    "bin_url": "https://raw.githubusercontent.com/pisitkwang/esp32-firepump-ota/main/bins/bangsueoffice_v1.6.bin"
+    "version": "1.7",
+    "bin_url": "https://raw.githubusercontent.com/pisitkwang/esp32-firepump-ota/main/bins/bangsueoffice_v1.7.bin"
   },
   "sichonhospital": {
     "version": "1.2",
@@ -10,5 +10,9 @@
   "meathonburi": {
     "version": "1.2",
     "bin_url": "https://raw.githubusercontent.com/pisitkwang/esp32-firepump-ota/main/bins/meathonburi_v1.2.bin"
+  },
+  "lactasoy_aa": {
+    "version": "1.2",
+    "bin_url": "https://raw.githubusercontent.com/pisitkwang/esp32-firepump-ota/main/bins/lactasoy_aa_v1.2.bin"
   }
 }
